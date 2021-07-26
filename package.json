@@ -1,7 +1,7 @@
 {
   "name": "@webergency/logger",
   "description": "Logger Service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/logger.js",
@@ -21,7 +21,7 @@
     "webergency"
   ],
   "dependencies": {
-    "@liqd-js/client-jsonrpc": "^0.0.3",
+    "@liqd-js/client-jsonrpc": "^0.0.4",
     "@liqd-js/logger": "^0.0.3",
     "@liqd-js/websocket": "^1.0.1"
   }
